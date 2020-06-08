@@ -1,24 +1,18 @@
-# covid-19-visualization
+# Covid-19 Data Visualization
 
-## Project setup
-```
-npm install
-```
+Gráfico com os dados do Brasil.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Desenvolvido com
 
-### Compiles and minifies for production
-```
-npm run build
-```
+* [Vue.js](https://vuejs.org/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Chart.js](https://www.chartjs.org/)
+* [COVID19 API](https://covid19api.com/)
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Referência
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* [Building a COVID-19 Dashboard with Vue.js and Chart.js - Diligent Dev](https://www.youtube.com/watch?v=cUSfL6MBmlY)
+
+## Screenshot
+
+![alt text](screenshot.png)
